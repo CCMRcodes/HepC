@@ -41,6 +41,8 @@ To run the code, the user needs to preprocess the data into the format according
 •variable_selection_cox_longitudinal.R: This code performs variable selection for longitudinal Cox model with 30 random splits of training/test data.
 
 
+-fit_boosting_full_lgt.RDATA: R object for Hep C survival boosting trees
+
 
 Reference
 
